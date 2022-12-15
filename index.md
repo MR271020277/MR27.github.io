@@ -97,6 +97,7 @@ Now, you're going to want to crack the eggs in such a way that you don't make a 
 ## Exercise 3
 [![Tämä jos ei voi käyttää iframe](https://img.youtube.com/vi/p7YXXieghto/0.jpg)](https://www.youtube.com/watch?v=p7YXXieghto)
 ![Black rik][Rik cat]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/p7YXXieghto" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Exercise 4
 ```C#
